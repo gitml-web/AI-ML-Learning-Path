@@ -1,5 +1,5 @@
 # AI & ML Learning Path: Complete Video Index
-
+This repo is a curated roadmap of AI/ML/DL learning resources. Feel free to explore, fork, or contribute.
 A carefully sequenced collection of the best AI/ML/DL video playlists
 for complete learning - from foundations to advanced implementations.
 
